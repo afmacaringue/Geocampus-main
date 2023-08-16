@@ -1,2 +1,3 @@
 # Geocampus-main
-é um aplicativo mobile para os sitemas android e ios que permite localizar qualquer ponto de interesse dentro do campus universitario da Universidade Eduardo Mondlane. Desenvolvido por mim e o Mestre Israrel Matavel.
+É um aplicativo Mobile que permite localizar qualquer edifício existente no Campus Universitário da Eduardo Mondlane <br>
+FrameWork Flutter
